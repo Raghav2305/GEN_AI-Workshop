@@ -1,0 +1,10 @@
+Prompt for simple API call :
+
+i need to create a python program which simply calls the gemini API using the google-genai dependency and passes the users prompt to the model and just returns the output in the terminal. 
+
+
+
+
+Prompt for chatbot:
+
+i need to create a simple chat bot interface with a frontend where the user  will ask a query - it will go to a flask endpoint in which we will do a gemini call using the google-genai dependency - and the response will be shown back to the user on the UI.
