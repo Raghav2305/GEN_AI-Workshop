@@ -1,0 +1,9 @@
+python .\gemini_api_call.py
+Sending prompt: 'Tell me a fun fact about large language models.'
+Traceback (most recent call last):
+  File "C:\Users\ASUS\Desktop\GENAI WORKSHOP\Day 1\Code1\gemini_api_call.py", line 39, in <module>
+    gemini_response = make_gemini_api_call(api_key, user_prompt)
+  File "C:\Users\ASUS\Desktop\GENAI WORKSHOP\Day 1\Code1\gemini_api_call.py", line 15, in make_gemini_api_call
+    genai.configure(api_key=api_key)
+    ^^^^^^^^^^^^^^^
+AttributeError: module 'google.genai' has no attribute 'configure'

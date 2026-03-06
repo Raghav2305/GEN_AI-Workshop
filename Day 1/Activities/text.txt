@@ -1,0 +1,26 @@
+Large Language Models (LLMs) are computational systems designed to process, predict, and generate human language using statistical patterns learned from extremely large text datasets.
+The operational objective of an LLM is to predict the next token in a sequence of tokens.
+
+
+Imagine a Large Language Model (LLM) as an incredibly well-read assistant that has memorized nearly every text on the internet. Instead of "thinking" or understanding concepts like a human, it predicts the next most likely word in a sequence based on vast patterns it learned during training. It's essentially a super-powered autocomplete.
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Gravity is the invisible, universal force that pulls any two objects with mass toward each other. It is the "glue" of the universe, holding planets in orbit around the Sun, keeping us anchored to the Earth, and preventing our atmosphere from drifting into space.
+
+Gravity is a fundamental physical interaction that causes objects with mass or energy to attract one another.
+The operational effect of gravity is the generation of accelerations between massive bodies.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+HTML (HyperText Markup Language) is the skeleton of every website on the internet. It is not a programming language, but rather a "markup language" that tells your web browser (like Chrome or Safari) how to structure the content you see.
+
+
+HTML stands for HyperText Markup Language. HTML is a standardized markup language used to structure content on the World Wide Web.
+Its primary purpose is to define the semantic structure of web documents so that browsers can render content correctly.
+
